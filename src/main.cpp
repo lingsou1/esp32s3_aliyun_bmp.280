@@ -308,7 +308,7 @@ void wifi_multi_con(void){
 # retval  无
 */
 void wifi_multi_init(void){
-  wifi_multi.addAP("haoze1029","12345678");
+  wifi_multi.addAP("haoze2938","12345678");
   wifi_multi.addAP("LINGSOU12","123455678");
   wifi_multi.addAP("LINGSOU1","123455678");
   wifi_multi.addAP("LINGSOU234","12345678");   //通过 wifi_multi.addAP() 添加了多个WiFi的信息,当连接时会在这些WiFi中自动搜索最强信号的WiFi连接
